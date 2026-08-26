@@ -1,4 +1,6 @@
-## System Commands
+# System Commands
+
+## Basic System Commands
 
 - `mkdir` -> used to create a folder (`-p` flag makes the parent if required)
 
@@ -15,3 +17,5 @@
 - `cp` -> used to copy a file to other location. Usage: cp file1 location
 
 - `mv` -> used to move a file from one location to another. Usage: mv file1 location
+
+## Pattern Matching
