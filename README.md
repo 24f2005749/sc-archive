@@ -10,5 +10,5 @@
 
 - `chmod` -> used to change permissions of a file (1: x, 2: w, 4:r)
 
-- `ln` -> used to link files (`-s` flag makes it a symbolic link). Usage: ln -s target link_name
+- `ln` -> used to link files (`-s` flag makes it a symbolic link). Usage: ln -s target link_name (link_name doesnt necessarily have to be a filename it can be the destination folder also)
 
